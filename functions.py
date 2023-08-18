@@ -199,7 +199,7 @@ list_phone_numbers = [('Dima', 'Bilan', 89115454698), ('Philipp', 'Kirkorov', 65
 # add_phone_number('Yevgeniy', 'Boris', 638787)
 
 # 4_Функция, позволяющая изменить данные о клиенте.
-change_data('Philipp', 'Kirkorov', 'tel_nuer', '5556')
+# change_data('Philipp', 'Kirkorov', 'tel_number', '5556')
 
 # 5_Функция, позволяющая удалить телефон для существующего клиента.
 # delete_phone_number('Boris', 'Moiseev')
